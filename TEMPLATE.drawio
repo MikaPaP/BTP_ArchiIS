@@ -41,7 +41,7 @@
           <mxGeometry x="16.72" y="372.71" width="203.28" height="203.17" as="geometry" />
         </mxCell>
         <mxCell id="i0-r0BhkWRjA8PmNq9u2-14" value="&lt;font face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;SubAccount&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Integration PRD&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" parent="i0-r0BhkWRjA8PmNq9u2-2" vertex="1">
-          <mxGeometry x="27.036395147313687" y="372.1270588235294" width="140" height="50" as="geometry" />
+          <mxGeometry x="18.036395147313687" y="372.1270588235294" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i0-r0BhkWRjA8PmNq9u2-34" value="&lt;font face=&quot;arial&quot; style=&quot;color: rgb(29, 45, 62); text-wrap-mode: nowrap; font-size: 16px;&quot;&gt;&lt;b&gt;SubAccount&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;color: rgb(29, 45, 62); text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Integration DEV/QAL&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=24;fillColor=#FFFFFF;perimeterSpacing=0;absoluteArcSize=1;verticalAlign=top;align=left;" parent="i0-r0BhkWRjA8PmNq9u2-2" vertex="1">
           <mxGeometry x="18.36" y="130" width="201.64" height="203.17" as="geometry" />
