@@ -89,7 +89,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dXTzPp-jMn9TThO5otRM-6" value="&lt;font color=&quot;#475f75&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;RFC Call&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#475f75;fillColor=default;strokeWidth=1.5;" vertex="1" parent="i0-r0BhkWRjA8PmNq9u2-2">
+        <mxCell id="dXTzPp-jMn9TThO5otRM-6" value="&lt;font color=&quot;#475f75&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;SOAP Call&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#475f75;fillColor=default;strokeWidth=1.5;" vertex="1" parent="i0-r0BhkWRjA8PmNq9u2-2">
           <mxGeometry x="211" y="342" width="57" height="16" as="geometry" />
         </mxCell>
         <mxCell id="i0-r0BhkWRjA8PmNq9u2-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#BFBFBF;fontSize=13;strokeColor=#9673a6;endSize=5;strokeWidth=2;endArrow=blockThin;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;flowAnimation=0;fillColor=#e1d5e7;" parent="1" source="i0-r0BhkWRjA8PmNq9u2-54" target="i0-r0BhkWRjA8PmNq9u2-29" edge="1">
